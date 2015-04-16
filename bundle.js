@@ -2,7 +2,6 @@
 var operator = require('operator'),
     result = operator.add(5,4);
 console.log(result);
-document.body.innerText=result;
 },{"operator":2}],2:[function(require,module,exports){
 /*
  *      operator.js -- 0.1.2
